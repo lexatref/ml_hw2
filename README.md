@@ -1,2 +1,4 @@
-# ml_hw2
-ml backend hw 2
+# Homework
+Solution for homework https://stepik.org/lesson/753914/step/7?unit=755834
+
+
