@@ -6,6 +6,7 @@ docker run -v .:/app -p 8080:8080 hw2
 
 Запрос с одним id
 http://localhost:8080/readPlateNumbers?imageid=10022
+
 {
   "plate_number": "\u0441181\u043c\u0432190"
 }
